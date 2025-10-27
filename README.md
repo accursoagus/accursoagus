@@ -24,11 +24,41 @@ Me interesa el desarrollo con Python, la automatización de procesos y el análi
 
 ---
 
+## Mis habilidades 💻
+
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFD43B?style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Tecnologías y librerías
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Bases de datos
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### IDEs y herramientas
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### Conceptos
+![POO](https://img.shields.io/badge/POO-1572B6?style=for-the-badge)
+![Análisis de Datos](https://img.shields.io/badge/An%C3%A1lisis%20de%20Datos-1D428A?style=for-the-badge)
+![Automatización](https://img.shields.io/badge/Automatizaci%C3%B3n-4CAF50?style=for-the-badge)
+![Bases de Datos](https://img.shields.io/badge/Bases%20de%20Datos-006272?style=for-the-badge)
+
+---
+
 📄 **Mi Currículum**  
-*(adjunto en perfiles profesionales o disponible a solicitud)*
+[Descargar cv][*(adjunto en perfiles profesionales o disponible a solicitud)*](https://github.com/accursoagus/accursoagus/blob/main/CV%20Agust%C3%ADn%20Accurso.pdf)
 
 📬 **Contacto**  
 [LinkedIn](https://www.linkedin.com/in/agus-accurso) | [Mail](mailto:accursoagus@gmail.com)  
 🔗 GitHub: https://github.com/accursoagus
 
-> Siempre abierto a propuestas, proyectos y nuevas oportunidades para desarrollarme en IT 🚀
+> Siempre abierto a propuestas, proyectos y nuevas oportunidades!
