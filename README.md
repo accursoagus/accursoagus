@@ -55,7 +55,7 @@ Me interesa el desarrollo con Python, la automatización de procesos y el análi
 ---
 
 📄 **Mi Currículum**  
-[Descargar cv][*(adjunto en perfiles profesionales o disponible a solicitud)*](https://github.com/accursoagus/accursoagus/blob/main/CV%20Agust%C3%ADn%20Accurso.pdf)
+[Descargar cv](https://github.com/accursoagus/accursoagus/blob/main/CV%20Agust%C3%ADn%20Accurso.pdf)
 
 📬 **Contacto**  
 [LinkedIn](https://www.linkedin.com/in/agus-accurso) | [Mail](mailto:accursoagus@gmail.com)  
