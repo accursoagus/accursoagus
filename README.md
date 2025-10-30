@@ -63,4 +63,4 @@ Me interesa el desarrollo con Python, la automatización de procesos y el análi
 
 > Siempre abierto a propuestas, proyectos y nuevas oportunidades!
 >
-> 📂 [Mi Portfolio](https://github.com/accursoagus/mi-portfolio)
+Te dejo [Mi Portfolio](https://github.com/accursoagus/mi-portfolio)
