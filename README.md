@@ -1,13 +1,13 @@
-# ¡Hola! Soy Agustín 👋
+# Hola! Soy Agustín 👋
 
 Estudiante avanzado de la Tecnicatura Universitaria en Inteligencia Artificial, en la Universidad Nacional de Rosario.  
-Me interesa el desarrollo con Python, la automatización de procesos y el análisis de datos.
+Me interesa la IA en general, el desarrollo con Python, la automatización de procesos y el análisis de datos.
 
 ---
 
 ### Te cuento un poco sobre mí:
 
-- Soy estudiante avanzado de IA en la UNR (con sólidos fundamentos en Python, SQL y análisis de datos)
+- Soy estudiante avanzado de IA en la UNR (fundamentos en Python, SQL y análisis de datos)
 - Actualmente profundizando en Machine Learning, NLP y procesamiento de imágenes
 - Busco participar en proyectos reales donde pueda aportar valor intelectual y creativo, y aprender buenas prácticas
 - Poseo conocimientos en procesamiento de datos, scripting y bases de datos relacionales
@@ -16,6 +16,7 @@ Me interesa el desarrollo con Python, la automatización de procesos y el análi
 ---
 
 ### 🧩 Áreas de interés
+- Implementación de IA
 - Desarrollo con Python (APIs, automatizaciones)
 - Bases de datos y consultas SQL
 - Análisis de datos con Pandas
